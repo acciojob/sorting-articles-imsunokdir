@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsou-9Yj0s2NTQ1pGx4zvMQj12BW1NUvgLA&s');
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:100vh;
+	margin:1px;
+	padding:0;
+}
+.main{
+	background-color:white;
+	width:50%;
+	margin:auto;
+	height:100%;
+	
+}
+#band{
+	margin:0;
+	padding:0;
+	list-style:disc inside;
+}
+li{
+	font-size:19px;
+	padding:10px;
+	border-bottom:1px solid gray;
+}
